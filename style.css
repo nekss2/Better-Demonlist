@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to left, gray, white);
+}
+h1{
+    font-size: 75px;
+    font-family: monospace;
+}
+a{
+    font-family: monospace;
+    text-decoration: none;
+}
+h2{
+    font-size: 40px;
+    font-family: monospace;
+}
